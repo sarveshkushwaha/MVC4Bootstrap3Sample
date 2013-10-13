@@ -10,7 +10,7 @@ Project Features and Fixes :
 3. Added Code in budle.config to add min files (By Default MVC4 ignores .min files in bundling)
 4. Added latest jquery
 5. Manually Added Bootstrap3
-6. Configured Layout.cshtml according to the bootsrap
+6. Configured Layout.cshtml according to the bootstrap
 7. Configured layout.cshtml for dynamic products
 8. Index.cshtml is for simple full width layout
-9. NavBar.cshtml is for Navbar with container classes of Bootsrap3
+9. NavBar.cshtml is for Navbar with container classes of Bootstrap3
