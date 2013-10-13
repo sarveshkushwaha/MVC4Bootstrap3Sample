@@ -1,4 +1,4 @@
-MVC3Bootstrap3Sample
+MVC4Bootstrap3Sample
 ====================
 MVC4Bootstrap3Sample is an Asp.NET MVC4 project using Bootstrap3 as its theme. 
 To use it download the project file from the github repository and open the solution in Visual Studio.NET 2012. 
